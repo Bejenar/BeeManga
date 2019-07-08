@@ -24,5 +24,10 @@ namespace BeeManga
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            label1.Content = "Test";
+        }
     }
 }

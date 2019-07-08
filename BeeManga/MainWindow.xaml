@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Height="50" Margin="98,168,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.756,0.444" Panel.ZIndex="-1" Click="Button_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="#FF0A9EE4" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="281,188,0,0" VerticalAlignment="Top" Width="233"/>
+
     </Grid>
 </Window>

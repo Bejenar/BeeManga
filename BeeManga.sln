@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeManga", "BeeManga\BeeManga.csproj", "{065D3710-931D-4CAE-BA4D-2B4206A39637}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovelHack", "..\NovelHack\NovelHack\NovelHack.csproj", "{B308AE9B-EC4F-42C9-834C-7CCD7CA705A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beta_BeeManga", "Beta_BeeManga\Beta_BeeManga.csproj", "{1277104C-C8A2-4B2D-8EAA-6F218416BCB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{065D3710-931D-4CAE-BA4D-2B4206A39637}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{065D3710-931D-4CAE-BA4D-2B4206A39637}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{065D3710-931D-4CAE-BA4D-2B4206A39637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B308AE9B-EC4F-42C9-834C-7CCD7CA705A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B308AE9B-EC4F-42C9-834C-7CCD7CA705A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B308AE9B-EC4F-42C9-834C-7CCD7CA705A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B308AE9B-EC4F-42C9-834C-7CCD7CA705A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1277104C-C8A2-4B2D-8EAA-6F218416BCB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1277104C-C8A2-4B2D-8EAA-6F218416BCB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1277104C-C8A2-4B2D-8EAA-6F218416BCB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1277104C-C8A2-4B2D-8EAA-6F218416BCB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
